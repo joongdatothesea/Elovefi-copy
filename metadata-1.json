@@ -1,0 +1,5 @@
+{
+  "name": "ELF Home",
+  "description": "A comprehensive family management dashboard for Fiona & Elvin (ELF). Includes goal tracking, finance visualization, travel planning, and a Gemini-powered family assistant.",
+  "requestFramePermissions": []
+}
